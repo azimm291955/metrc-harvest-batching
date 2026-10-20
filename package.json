@@ -1,0 +1,1 @@
+{"name":"metrc-harvest-batching","version":"1.0.0","type":"module","description":"Harvest batching engine for METRC cannabis cultivation, with the replay check that validated it","scripts":{"generate":"node data/generate.js","replay":"node replay.js","demo":"node data/generate.js && node replay.js && node check-day.js","check":"node check-day.js"},"license":"MIT"}
